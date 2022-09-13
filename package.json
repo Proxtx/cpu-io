@@ -1,0 +1,24 @@
+{
+  "name": "cpu-io",
+  "version": "1.0.0",
+  "description": "an information-overflow widget for cpu usage",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/cpu-io.git"
+  },
+  "author": "Proxtx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proxtx/cpu-io/issues"
+  },
+  "homepage": "https://github.com/Proxtx/cpu-io#readme",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "os-utils": "^0.0.14"
+  }
+}
